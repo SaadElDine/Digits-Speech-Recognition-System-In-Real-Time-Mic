@@ -4,7 +4,7 @@ This project aims to recognize spoken digits (0-9) from audio recordings using d
 ## Overview
 This project aims to recognize spoken digits (0-9) from audio recordings using deep learning techniques. The model is trained on a dataset containing audio samples of spoken digits and is then used to predict the digit spoken in a given audio clip. Real-time testing allows the model to predict digits from live microphone input.
 
-![image](https://github.com/SaadElDine/Digits-Speech-Recongintion-System-In-Real-Time-Mic/assets/113860522/9f07ce84-9b9e-4995-a684-f7472b5ac78f)
+![sr](https://github.com/SaadElDine/Digits-Speech-Recongnition-System-In-Real-Time-Mic/assets/113860522/be24ae16-c909-48bc-af6c-499fcb81675d)
 
 
 ## Project Components
